@@ -15,7 +15,6 @@ setup(
     packages=find_packages(),
     license='MIT',
     author='Patrick Olsen',
-    author_email='patrick.olsen@sysforensics.org',
     package_data={'regparse': ['*.plugin']},
     install_requires=[
         'Jinja2',
